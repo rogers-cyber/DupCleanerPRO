@@ -7,7 +7,7 @@ This repository contains the **full source code**, allowing you to customize sca
    🌟 SCREENSHOT
 ------------------------------------------------------------
 
-https://github.com/rogers-cyber/DupCleanerPRO/blob/main/DupCleaner%20PRO.jpg
+<img alt="DupCleaner PRO Main Interface" scr="https://github.com/rogers-cyber/DupCleanerPRO/blob/main/DupCleaner%20PRO.jpg" />
 
 ------------------------------------------------------------
 🌟 FEATURES
@@ -149,4 +149,5 @@ Website: https://matetools.gumroad.com
 Distributed as commercial source code.  
 You may use it for personal or commercial projects.  
 Redistribution, resale, or rebranding as a competing product is **not allowed**.
+
 
